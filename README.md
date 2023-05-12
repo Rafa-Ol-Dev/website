@@ -44,7 +44,7 @@ Please refer to the individual project repositories for licensing information an
 
 For any additional questions or inquiries, please contact Rafael Oliveira via the GitHub repository mentioned below.
 
-[**Portfolio website**](https://rafa-ol-dev/website)
+[**Portfolio website**](https://Rafa-Ol-Dev/website)
 
 ---
 © 2023 Rafael Oliveira. All rights reserved.
